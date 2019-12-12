@@ -1,3 +1,3 @@
-bob: string = "hi typeScript";
+var globalVar = "I am Global Var here";
 
-console.log(bob);
+console.log(globalVar);
